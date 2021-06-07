@@ -10,7 +10,7 @@ url: "https://AndrewShawZA.github.io/" # the base hostname & protocol for your s
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: Andrew Shaw
   links:
     - https://twitter.com/AndrewShawZA
     - https://www.linkedin.com/in/ashaw1
@@ -23,7 +23,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  Some thoughts I have
 
 hero_img: posts/New-Project.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
