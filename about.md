@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
+# permalink: /about/
 ---
-
 
 Geek & online product guy. Living in digital and working in eCom. South African now living in the German countryside. Dad, music lover, sport mad, drummer & vegan.
 
