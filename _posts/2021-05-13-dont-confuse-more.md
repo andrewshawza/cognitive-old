@@ -5,7 +5,7 @@ featured-img: dont-confuse
 mathjax: true
 ---
 
-# ![PowerMBA Infographic](/assets/img/posts/dont-confuse.jpg)
+![Monkeys](/cognitive-old//assets/img/posts/dont-confuse.jpg)
 
 
 

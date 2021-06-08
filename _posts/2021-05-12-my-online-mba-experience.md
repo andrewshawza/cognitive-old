@@ -5,11 +5,9 @@ featured-img: powermba-infographic
 mathjax: true
 ---
 
-# ![PowerMBA Infographic](/assets/img/posts/powermba-infographic.jpg)
+ ![PowerMBA Infographic](/cognitive-old/assets/img/posts/powermba-infographic.jpg)
 
-![image-center](/assets/images/image-alignment-580x300.jpg){: .align-center}
-
-Choosing an online MBA over a traditional MBA.
+#Choosing an online MBA over a traditional MBA.#
 
 Let’s start with my motivation for doing an MBA.
 
