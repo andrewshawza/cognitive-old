@@ -1,11 +1,11 @@
 ---
 layout: post
 title: My Online MBA Experience
-featured-img: sleek
+featured-img: powermba-infographic
 mathjax: true
 ---
 
-# ![PowerMBA Infographic](/assets/images/powermba-infographic-800x487.jpg)
+# ![PowerMBA Infographic](/assets/img/posts/powermba-infographic.jpg)
 
 ![image-center](/assets/images/image-alignment-580x300.jpg){: .align-center}
 

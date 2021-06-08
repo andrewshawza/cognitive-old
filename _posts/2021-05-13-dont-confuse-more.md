@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't confuse more developers with more output
-featured-img: sleek
+featured-img: dont-confuse
 mathjax: true
 ---
 
